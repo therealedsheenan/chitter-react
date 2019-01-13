@@ -16,13 +16,18 @@
   "author": "Sheenan Tenepre",
   "license": "ISC",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
     "apollo-boost": "^0.1.23",
+    "file-loader": "^3.0.1",
     "graphql": "^14.0.2",
     "isomorphic-unfetch": "^3.0.0",
     "next": "^7.0.2",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
     "react-apollo": "^2.3.3",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.84.0",
+    "url-loader": "^1.1.2"
   }
 }
